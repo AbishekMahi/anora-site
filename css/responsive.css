@@ -764,7 +764,7 @@
 	    right: auto;
 	}
 	.slider-main .dsc a {
-	    border: 2px solid #ef292a;
+	    border: 2px solid #d4af37;
 	}
 	.testimonials-area {
 	    padding-bottom: 50px;
@@ -901,7 +901,7 @@
 	}
 	.header-area{
 		position: relative;
-		background: #000;
+		background: #285c4f;
 		padding-bottom: 0;
 	}
 	.header-area #logo {
@@ -916,7 +916,7 @@
 		padding-bottom: 0 !important;
 	}
 	#inner .header-area{
-		background: #fff !important;
+		/* background: #fff; */
 	}
 	.header-area .container{
 		margin: 0 !important;
@@ -974,7 +974,7 @@
 	.chef-gallery .owl-dot.active span, 
 	.chef-gallery .owl-dot span:hover
 	{
-		background: #285c4f;
+		background: #f10909;
 	}
 }
 
@@ -1187,7 +1187,7 @@
 		position: relative;
 	}
 	.read-more {
-	    border: 2px solid #ef292a;
+	    border: 2px solid #285c4f;
 	    position: relative !important;
 	    display:block !important;
 	    width: 180px;
