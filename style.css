@@ -5032,13 +5032,13 @@ body .nav-menu ul .active>a {
   left: 0;
   top: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgb(31, 31, 31);
 }
 
 .contact-page-area .contact-middle .inner-add i,
 .contact-page-area .contact-middle .inner-phn i,
 .contact-page-area .contact-middle .inner-email i {
-  color: #285c4f;
+  color: #d4af37;
   font-size: 30px;
   position: relative;
   z-index: 1;
@@ -5077,7 +5077,7 @@ body .nav-menu ul .active>a {
 .contact-page-area .contact-middle .inner-add p a:hover,
 .contact-page-area .contact-middle .inner-phn p a:hover,
 .contact-page-area .contact-middle .inner-email p a:hover {
-  color: #285c4f;
+  color: #d4af37;
 }
 
 .contact-page-area .contact-area {
