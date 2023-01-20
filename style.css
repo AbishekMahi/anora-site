@@ -228,7 +228,7 @@ ul {
 }
 
 .rs-menu ul ul li {
-  border-bottom: 1px solid #c00707 !important;
+  border-bottom: 1px solid #fff !important;
 }
 
 .nav-menu .mega-menu .sub-menu a:hover,
@@ -330,6 +330,7 @@ body .nav-menu ul .active>a {
 .header-area #logo {
   padding-top: 30px;
   padding-bottom: 5px;
+  height: 100px;
 }
 
 .header-area.sticky-header .nav-menu li a {
@@ -1692,7 +1693,7 @@ body .nav-menu ul .active>a {
 
 .opening-hours {
   padding: 92px 0 100px;
-  background: url(images/parallax/1.jpg) no-repeat center top;
+  background: url(images/anora2.jpg) no-repeat center top;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
