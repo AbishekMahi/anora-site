@@ -5751,9 +5751,9 @@ body .nav-menu ul .active>a {
 31.Footer Css Start Here 
 ---------------------------------------*/
 footer {
-  background: url(images/footer/1.jpg) no-repeat center top;
+  background: url(images/footer/1.jpg) no-repeat center top ;
   position: relative;
-  color: #ccc;
+  color: #fff;
   background-size: cover;
 }
 
@@ -5766,7 +5766,7 @@ footer a:hover {
 }
 
 footer:after {
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 0.55);
   position: absolute;
   content: "";
   top: 0;
