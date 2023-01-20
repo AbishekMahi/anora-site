@@ -1014,6 +1014,12 @@ body .nav-menu ul .active>a {
   padding: 92px 0 100px;
 }
 
+.our-story {
+  padding: 5rem 20% !important;
+  background: #f9f9f9;
+  height: auto;
+}
+
 .our-story .container {
   width: 100%;
   text-align: center;
@@ -4870,6 +4876,10 @@ body .nav-menu ul .active>a {
 /* ------------------------------------
 25.menus page area Css Start Here 
 ---------------------------------------*/
+.margin {
+  margin-right: 1px !important;
+}
+
 .menus-page-area {
   margin-bottom: 76px;
 }
@@ -5748,6 +5758,7 @@ footer {
 footer a {
   color: #ccc;
 }
+
 footer a:hover {
   color: #d4af37;
 }
