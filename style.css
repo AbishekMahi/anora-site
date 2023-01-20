@@ -1016,7 +1016,7 @@ body .nav-menu ul .active>a {
 }
 
 .our-story {
-  padding: 5rem 20% !important;
+  padding: 5rem 10% !important;
   background: #f9f9f9;
   height: auto;
 }
@@ -1743,7 +1743,7 @@ body .nav-menu ul .active>a {
 }
 
 .opening-hours .reservation {
-  background: #000;
+  background: #285c4f;
   max-width: 475px;
   position: absolute;
   z-index: 99;
@@ -5997,6 +5997,7 @@ footer .copyright:before {
 
 .sticky-header .container {
   position: relative;
+  height: 90px;
 }
 
 .sticky-header #logo-sticky {
@@ -6030,7 +6031,7 @@ footer .copyright:before {
 }
 
 .sticky-header.header-area2 {
-  background: rgba(0, 0, 0, 0.95) !important;
+  background: #285c4f !important;
 }
 
 /* ------------------------------------
