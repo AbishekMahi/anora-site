@@ -2937,7 +2937,7 @@ body .nav-menu ul .active>a {
   left: 0;
   top: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(0, 0, 0, 0.15);
 }
 
 .inner-banner .title {
