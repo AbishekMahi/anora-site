@@ -343,7 +343,8 @@ body .nav-menu ul .active>a {
 }
 
 .header-area.sticky-header .col-md-2 img {
-  height: 50px;
+  height: auto;
+  /* height: 50px; */
 }
 
 .main-menu ul {
@@ -1016,7 +1017,7 @@ body .nav-menu ul .active>a {
 }
 
 .our-story {
-  padding: 5rem 10% !important;
+  padding: 5rem 18% !important;
   background: #f9f9f9;
   height: auto;
 }
@@ -1747,7 +1748,7 @@ body .nav-menu ul .active>a {
   max-width: 475px;
   position: absolute;
   z-index: 99;
-  top: -200px;
+  top: -70px;
   right: 0;
   width: 100%;
   padding: 35px 42px 60px 42px;
@@ -1846,7 +1847,7 @@ body .nav-menu ul .active>a {
 }
 
 .home-gellary-area .container .col-md-3 {
-  padding: 0;
+  padding: 0 !important;
 }
 
 .rs-gellary .portfolio-filter {

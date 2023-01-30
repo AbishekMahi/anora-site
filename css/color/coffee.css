@@ -1502,7 +1502,7 @@ body .nav-menu ul .active > a {
   width: 100%;
 }
 .home-gellary-area .container .col-md-3 {
-  padding: 0;
+  padding: 0 !important;
 }
 .rs-gellary .portfolio-filter {
   margin-bottom: 45px;
