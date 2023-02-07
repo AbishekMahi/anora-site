@@ -61,6 +61,27 @@
   src: url('fonts/CookieRegular.eot') format('embedded-opentype'), url('fonts/CookieRegular.woff2') format('woff2'), url('fonts/CookieRegular.woff') format('woff'), url('fonts/CookieRegular.ttf') format('truetype'), url('fonts/CookieRegular.svg#CookieRegular') format('svg');
 }
 
+.whatsapp {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #25D366;
+  color: white !important;
+  cursor: pointer;
+  padding: 14px 15px;
+  border-radius: 50px;
+  font-size: 30px;
+  transition: 300ms;
+}
+
+.whatsapp:hover {
+  color: white !important;
+  bottom: 95px;
+}
+
 html,
 body {
   height: 100%;
@@ -1744,11 +1765,12 @@ body .nav-menu ul .active>a {
 }
 
 .opening-hours .reservation {
-  background: #285c4f;
+  background: #1a4037;
   max-width: 475px;
   position: absolute;
   z-index: 99;
-  top: -70px;
+  top: -91px;
+  height: 555px;
   right: 0;
   width: 100%;
   padding: 35px 42px 60px 42px;
@@ -5752,7 +5774,7 @@ body .nav-menu ul .active>a {
 31.Footer Css Start Here 
 ---------------------------------------*/
 footer {
-  background: url(images/footer/1.jpg) no-repeat center top ;
+  background: url(images/footer/1.jpg) no-repeat center top;
   position: relative;
   color: #fff;
   background-size: cover;
